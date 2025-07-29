@@ -64,11 +64,11 @@ We need to try at least any three models from logistic regression, naive Bayes, 
 From the above results we can see that Logistic Regression and XGBoost Classifier have the best F1 score of 0.91. So we will use these models to predict the topics for the new complaints.
 
 # Technologies Used
-Python
-Numpy
-Panda
-pycrf
-sklearn-crfsuite
-spacy
-nlptk
+Python 
+Numpy 
+Panda 
+pycrf 
+sklearn-crfsuite 
+spacy 
+nlptk 
 Jupyter Notebook
